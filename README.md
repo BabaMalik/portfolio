@@ -1,4 +1,4 @@
-# Baba Malik Hussain 🌟
+# Baba Malik 🌟
 
 I am a **Data Engineer** with a **Master’s degree in Data Science from New Jersey Institute of Technology (NJIT)** and **over 2.5 years of professional experience** in designing and developing scalable data pipelines, optimizing analytics workflows, and creating end-to-end data solutions.
 
