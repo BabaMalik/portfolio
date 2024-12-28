@@ -1,7 +1,7 @@
 # Site settings
 title: "Baba Malik's Portfolio"
 description: "Data Engineer with expertise in Azure Data Factory, Databricks, and scalable data solutions."
-url: "https://babamalik.github.io" 
+url: "https://babamalik.github.io/" 
 baseurl: "" # Leave empty if using the root domain
 
 # Author information
