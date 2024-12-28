@@ -1,9 +1,50 @@
-title: ""
-baseurl: ""
+# Site settings
+title: "Baba Malik's Portfolio"
+description: "Data Engineer with expertise in Azure Data Factory, Databricks, and scalable data solutions."
 url: "https://babamalik.github.io" 
-theme: minima
+baseurl: "" # Leave empty if using the root domain
+
+# Author information
+author:
+  name: "Baba Malik Hussain"
+  email: "babamalik206@gmail.com"
+
+# Build settings
 markdown: kramdown
-paginate: 5
+theme: jekyll-theme-cayman # Change to your preferred Jekyll theme
+
+# Social media links
+social:
+  github: "https://github.com/BabaMalik"
+  linkedin: "https://www.linkedin.com/in/babamalik"
+  email: "mailto:babamalik206@gmail.com"
+
+# Navigation settings
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Experience"
+    url: "/experience/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Plugins (if needed)
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-feed # Enables RSS feed
+
+# Exclude certain files/directories from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Permalinks settings (optional)
+permalink: pretty
+
+# Custom variables (if needed)
+custom_variables:
+  portfolio_color_scheme: "dark" # Example of a custom variable
