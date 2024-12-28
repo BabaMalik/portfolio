@@ -1,8 +1,6 @@
-title: "Baba Malik Hussain - Data Engineer Portfolio"
-description: "Professional portfolio of Baba Malik Hussain, showcasing expertise in Azure, Databricks, PySpark, and SQL."
-author: "Baba Malik Hussain"
+title: "Baba Malik Hussain"
 baseurl: ""
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+url: "https://babamalik.github.io" 
 theme: minima
 markdown: kramdown
 paginate: 5
