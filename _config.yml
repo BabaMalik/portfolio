@@ -1,4 +1,11 @@
-title: Shaw Talebi
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Baba Malik Hussain - Data Engineer Portfolio"
+description: "A professional portfolio of Baba Malik Hussain, Data Engineer with expertise in Azure, Databricks, PySpark, and SQL."
+author: "Baba Malik Hussain"
+baseurl: "" # Leave blank for GitHub Pages
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+theme: minima # Use Jekyll's default theme for simplicity
+markdown: kramdown
+paginate: 5
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
