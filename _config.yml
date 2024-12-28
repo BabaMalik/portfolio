@@ -1,50 +1,47 @@
 # Site settings
-title: "Baba Malik's Portfolio"
-description: "Data Engineer with expertise in Azure Data Factory, Databricks, and scalable data solutions."
-url: "https://babamalik.github.io/" 
-baseurl: "" # Leave empty if using the root domain
-
-# Author information
+title: Baba Malik Hussain
+description: Data Engineer | Master's in Data Science from NJIT
 author:
-  name: "Baba Malik Hussain"
-  email: "babamalik206@gmail.com"
+  name: Baba Malik Hussain
+  email: babamalik206@gmail.com
+  linkedin: https://www.linkedin.com/in/babamalik
+  github: https://github.com/BabaMalik
 
 # Build settings
+baseurl: ""
+url: "https://babamalik.github.io"
 markdown: kramdown
-theme: jekyll-theme-cayman # Change to your preferred Jekyll theme
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# Social media links
-social:
-  github: "https://github.com/BabaMalik"
-  linkedin: "https://www.linkedin.com/in/babamalik"
-  email: "mailto:babamalik206@gmail.com"
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title
 
-# Navigation settings
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "About Me"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Experience"
-    url: "/experience/"
-  - title: "Contact"
-    url: "/contact/"
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
 
-# Plugins (if needed)
+# Plugins
 plugins:
-  - jekyll-feed # Enables RSS feed
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Exclude certain files/directories from the build
+# Exclude
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
-
-# Permalinks settings (optional)
-permalink: pretty
-
-# Custom variables (if needed)
-custom_variables:
-  portfolio_color_scheme: "dark" # Example of a custom variable
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
