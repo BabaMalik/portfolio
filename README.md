@@ -132,16 +132,6 @@ I am passionate about transforming raw, unstructured data into meaningful insigh
 
 ---
 
-### 3. **Data Warehouse Implementation for E-commerce Analytics**
-   - **Description:** Designed a data warehouse to centralize data for a fictional e-commerce platform.
-   - **Technologies Used:** Azure SQL, Power BI, Tableau.
-   - **Key Achievements:**
-     - Reduced query response time by 30% through optimized schemas.
-     - Automated ETL workflows to update data daily.
-     - Created insightful dashboards for sales and user behavior analysis.
-   - **Repository Link:** [Project Repository](#)
-
----
 
 ### 4. **Scalable ETL Pipelines for Multi-Source Data Integration**
    - **Description:** Designed ETL workflows to integrate data from multiple structured and unstructured sources.
