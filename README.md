@@ -1,4 +1,4 @@
-I am a **Data Engineer** with a **Master’s degree in Data Science from New Jersey Institute of Technology (NJIT)** and **over 2.5 years of professional experience** in designing and developing scalable data pipelines, optimizing analytics workflows, and creating end-to-end data solutions.
+I am a **Data Engineer** with a **Master’s degree in Data Science from New Jersey Institute of Technology (NJIT)** and **over 2.5 plus years of professional experience** in designing and developing scalable data pipelines, optimizing analytics workflows, and creating end-to-end data solutions.
 
 My expertise lies in **Azure Data Factory**, **Databricks**, **PySpark**, and **SQL**, along with proficiency in **machine learning techniques**. With hands-on experience in building robust **ETL workflows**, processing **real-time data streams**, and architecting **data warehouses**, I aim to solve complex business challenges through efficient and innovative data engineering solutions.
 
